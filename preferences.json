@@ -1,8 +1,9 @@
 {
-    "firstname": "Pedro",
-    "lastname": "Del Toro",
-    "email": "master.haxx@etu.u-paris.fr",
-    "master": "Master Pute",
+    "firstname": "Abraham",
+    "lastname": "Lincoln",
+    "email": "yo.lespotes@etu.u-paris.fr",
+    "master": "Master Tchoins",
     "min_hour": "10:00",
-    "max_hour": "17:00"
+    "max_hour": "20:00",
+    "start_trying_at": "19:36:10"
 }
